@@ -41,7 +41,8 @@ jobs:
     - name: Commit and push the badge (if it changed)
       uses: EndBug/add-and-commit@v7
       with:
-        default_author: github_actions
+        author_name: github-actions[bot]
+        author_email: 36212634@users.noreply.github.com
         message: 'commit badge'
         add: '*.svg'
 
