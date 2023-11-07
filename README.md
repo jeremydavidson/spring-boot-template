@@ -1,8 +1,11 @@
 # Spring Boot Template
 
 ![CI Status](https://github.com/jeremydavidson/spring-boot-template/workflows/CI/badge.svg)
+
 ![CodeQL Status](https://github.com/jeremydavidson/spring-boot-template/workflows/CodeQL/badge.svg)
+
 ![Coverage](.github/badges/jacoco.svg)
+
 ![Branches](.github/badges/branches.svg)
 
 * Spring Boot + Web + JPA + REST
