@@ -1,7 +1,7 @@
 # Spring Boot Template
 
-![CI Status](./workflows/CI/badge.svg)
-![CodeQL Status](./workflows/CodeQL/badge.svg)
+![CI Status](https://github.com/jeremydavidson/spring-boot-template/workflows/CI/badge.svg)
+![CodeQL Status](https://github.com/jeremydavidson/spring-boot-template/workflows/CodeQL/badge.svg)
 
 * Spring Boot + Web + JPA + REST
 * Gradle Wrapper
